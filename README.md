@@ -1,2 +1,2 @@
-# AIFOCUZ-PROJECTS
-Repository containing all AIFocuz software development projects.
+# Aifocuz-projects
+Central repository for managing all AIFocuz projects, source code, documentation, and version control.
